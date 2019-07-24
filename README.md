@@ -63,3 +63,15 @@ if __name__ == "__main__":
     url_img = 'https://fr.ubergizmo.com/wp-content/uploads/2017/03/python-royal-smileys.jpeg'
     file = 'python.png'
     download_img(url_img, file)
+
+
+-programmation
+- la robotiaue 
+- 
+
+formation vendredi qpres midi (formation)
+
+
+
+alex n'guessan fondateur qfrica connect digital
+yao partir oprerationnel
